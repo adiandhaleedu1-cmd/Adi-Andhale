@@ -20,5 +20,5 @@
 - Problem Solving & DSA
 
 ## 📫 Connect With Me
-- GitHub:
+- GitHub: https://github.com/adiandhaleedu1-cmd
 - LinkedIn: https://www.linkedin.com/in/adinath-andhale/
